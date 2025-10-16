@@ -9,7 +9,6 @@ An efficient and lightweight full-text search engine built in Java, designed to 
 
 ## Requirements
 - Java JDK 11+
-- Maven 3.6+
 
 ## Installation
 
